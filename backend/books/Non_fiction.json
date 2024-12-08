@@ -1,0 +1,125 @@
+{
+    "non_fiction": [
+      {
+        "name": "The Art of Living",
+        "description": "A profound exploration of the philosophies and practices that can help one lead a fulfilled and meaningful life.",
+        "type": "Non-fiction",
+        "price": 19.99
+      },
+      {
+        "name": "Becoming",
+        "description": "Michelle Obama's memoir chronicling her life from childhood through to her time as First Lady of the United States.",
+        "type": "Non-fiction",
+        "price": 22.00
+      },
+      {
+        "name": "Educated",
+        "description": "Tara Westover's memoir about growing up in a strict, survivalist family and her journey toward education and self-discovery.",
+        "type": "Non-fiction",
+        "price": 18.99
+      },
+      {
+        "name": "Sapiens: A Brief History of Humankind",
+        "description": "Yuval Noah Harari's exploration of the history of humankind, from the Stone Age to the modern age, examining how biology and history have shaped our societies.",
+        "type": "Non-fiction",
+        "price": 21.50
+      },
+      {
+        "name": "The Power of Habit",
+        "description": "Charles Duhigg explores how habits are formed and how they can be changed to improve personal and professional life.",
+        "type": "Non-fiction",
+        "price": 17.75
+      },
+      {
+        "name": "Thinking, Fast and Slow",
+        "description": "Daniel Kahneman examines the two systems of thinking that drive our judgments and decisions: the fast, intuitive system and the slower, more deliberate system.",
+        "type": "Non-fiction",
+        "price": 20.00
+      },
+      {
+        "name": "Educating the Whole Child",
+        "description": "An exploration of progressive education and its emphasis on the emotional, social, and cognitive development of children.",
+        "type": "Non-fiction",
+        "price": 18.50
+      },
+      {
+        "name": "The Immortal Life of Henrietta Lacks",
+        "description": "Rebecca Skloot tells the story of Henrietta Lacks and the immortal cells that were taken from her without her knowledge or consent, revolutionizing medical research.",
+        "type": "Non-fiction",
+        "price": 16.99
+      },
+      {
+        "name": "Into the Wild",
+        "description": "Jon Krakauer's true story of Christopher McCandless, who abandoned his life and sought adventure in the Alaskan wilderness, ultimately paying the ultimate price.",
+        "type": "Non-fiction",
+        "price": 18.25
+      },
+      {
+        "name": "The Subtle Art of Not Giving a F*ck",
+        "description": "Mark Manson challenges conventional wisdom with a counterintuitive approach to living a better life by caring less about the unimportant.",
+        "type": "Non-fiction",
+        "price": 19.75
+      },
+      {
+        "name": "Quiet: The Power of Introverts in a World That Can’t Stop Talking",
+        "description": "Susan Cain explores the power of introverts in a society that tends to favor extroverted qualities, highlighting their strengths and contributions.",
+        "type": "Non-fiction",
+        "price": 20.50
+      },
+      {
+        "name": "Outliers: The Story of Success",
+        "description": "Malcolm Gladwell delves into the factors that contribute to high levels of success, from opportunities to cultural background and practice.",
+        "type": "Non-fiction",
+        "price": 17.00
+      },
+      {
+        "name": "The 5 AM Club",
+        "description": "Robin Sharma presents a philosophy for success based on waking up early and using the first hours of the day to set a productive and mindful tone.",
+        "type": "Non-fiction",
+        "price": 21.99
+      },
+      {
+        "name": "The Glass Castle",
+        "description": "Jeanette Walls' memoir about her unconventional and often turbulent childhood growing up in a family with parents who were both brilliant and dysfunctional.",
+        "type": "Non-fiction",
+        "price": 18.00
+      },
+      {
+        "name": "The Wright Brothers",
+        "description": "David McCullough's biography of the Wright brothers, the pioneers of flight, and their journey toward building the first successful airplane.",
+        "type": "Non-fiction",
+        "price": 22.50
+      },
+      {
+        "name": "A Brief History of Time",
+        "description": "Stephen Hawking's groundbreaking work that explores complex concepts about time, space, black holes, and the nature of the universe.",
+        "type": "Non-fiction",
+        "price": 20.00
+      },
+      {
+        "name": "Why We Sleep",
+        "description": "Matthew Walker examines the science of sleep and its critical importance to health, productivity, and overall well-being.",
+        "type": "Non-fiction",
+        "price": 18.99
+      },
+      {
+        "name": "The Four Agreements",
+        "description": "Don Miguel Ruiz reveals four key principles for creating a life of freedom, happiness, and love by transforming our beliefs.",
+        "type": "Non-fiction",
+        "price": 16.25
+      },
+      {
+        "name": "Dare to Lead",
+        "description": "Brené Brown encourages leaders to embrace vulnerability and courage in order to create stronger, more resilient teams and organizations.",
+        "type": "Non-fiction",
+        "price": 21.25
+      },
+      {
+        "name": "Atomic Habits",
+        "description": "James Clear explores the power of small habits and incremental change to create lasting improvements in one's personal and professional life.",
+        "type": "Non-fiction",
+        "price": 18.75
+      }
+    ]
+  }
+  

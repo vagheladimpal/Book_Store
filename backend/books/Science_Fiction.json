@@ -1,0 +1,119 @@
+{
+    "science_fiction": [
+      {
+        "name": "Dune",
+        "description": "A sweeping epic set on the desert planet of Arrakis, where noble families fight for control of a valuable resource known as 'spice'.",
+        "type": "Science Fiction",
+        "price": 22.50
+      },
+      {
+        "name": "Neuromancer",
+        "description": "A cyberpunk classic by William Gibson that introduces the concept of 'cyberspace' and follows a washed-up computer hacker on a high-tech heist.",
+        "type": "Science Fiction",
+        "price": 18.99
+      },
+      {
+        "name": "The Left Hand of Darkness",
+        "description": "In Ursula K. Le Guin's masterpiece, a human envoy journeys to a distant planet where inhabitants change gender, challenging ideas about identity and society.",
+        "type": "Science Fiction",
+        "price": 20.00
+      },
+      {
+        "name": "The Martian",
+        "description": "Mark Watney, an astronaut stranded on Mars, must use his ingenuity and knowledge to survive as he faces seemingly insurmountable odds.",
+        "type": "Science Fiction",
+        "price": 19.50
+      },
+      {
+        "name": "Hyperion",
+        "description": "Dan Simmons' epic sci-fi tale of seven pilgrims who travel to a distant planet, each with their own unique story tied to the mysterious Shrike creature.",
+        "type": "Science Fiction",
+        "price": 21.00
+      },
+      {
+        "name": "The Three-Body Problem",
+        "description": "Cixin Liu's Hugo Award-winning novel that explores first contact with an alien civilization and the ensuing existential crises and political upheaval.",
+        "type": "Science Fiction",
+        "price": 18.75
+      },
+      {
+        "name": "The Forever War",
+        "description": "Joe Haldeman's military science fiction novel that tells the story of soldiers sent to fight an alien enemy, only to return to a radically different world.",
+        "type": "Science Fiction",
+        "price": 17.50
+      },
+      {
+        "name": "Ready Player One",
+        "description": "In a dystopian future, a teenager embarks on a quest within a virtual reality world to find an Easter egg hidden by its late creator, hoping for wealth and power.",
+        "type": "Science Fiction",
+        "price": 19.99
+      },
+      {
+        "name": "Snow Crash",
+        "description": "A fast-paced cyberpunk novel by Neal Stephenson that mixes virtual reality with ancient Sumerian mythology, creating a unique narrative about the future of the internet.",
+        "type": "Science Fiction",
+        "price": 18.00
+      },
+      {
+        "name": "Altered Carbon",
+        "description": "In Richard K. Morgan's novel, humanity has discovered how to transfer consciousness into new bodies, leading to a futuristic world of immortality, crime, and mystery.",
+        "type": "Science Fiction",
+        "price": 21.75
+      },
+      {
+        "name": "Brave New World",
+        "description": "A dystopian classic by Aldous Huxley, where a futuristic society achieves apparent happiness through genetic engineering and state control, but at the cost of individual freedom.",
+        "type": "Science Fiction",
+        "price": 17.00
+      },
+      {
+        "name": "The Dispossessed",
+        "description": "Ursula K. Le Guin explores the lives of two societies—one capitalist and one anarchist—on two different planets in her exploration of social and political systems.",
+        "type": "Science Fiction",
+        "price": 19.25
+      },
+      {
+        "name": "Foundation",
+        "description": "Isaac Asimov's landmark series follows the efforts of a group of scientists to preserve knowledge and civilization as a galactic empire collapses.",
+        "type": "Science Fiction",
+        "price": 20.75
+      },
+      {
+        "name": "I, Robot",
+        "description": "A collection of short stories by Isaac Asimov exploring the interaction between humans and robots, focusing on moral dilemmas and the Three Laws of Robotics.",
+        "type": "Science Fiction",
+        "price": 17.99
+      },
+      {
+        "name": "The Windup Girl",
+        "description": "In a future of genetic engineering and bio-terrorism, a corporate 'windup girl' becomes the key to unraveling a conspiracy that could reshape the world.",
+        "type": "Science Fiction",
+        "price": 19.50
+      },
+      {
+        "name": "The Handmaid's Tale",
+        "description": "Margaret Atwood's dystopian novel set in a future totalitarian society where women are stripped of their rights, focusing on one woman's struggle for survival and autonomy.",
+        "type": "Science Fiction",
+        "price": 18.99
+      },
+      {
+        "name": "Starship Troopers",
+        "description": "Robert A. Heinlein's military science fiction novel follows the experiences of a soldier in a future interstellar war between humans and insect-like aliens.",
+        "type": "Science Fiction",
+        "price": 17.50
+      },
+      {
+        "name": "The Stars My Destination",
+        "description": "Alfred Bester's hard-hitting science fiction novel follows a vengeful man on a quest for power, set against the backdrop of a vast, interstellar society.",
+        "type": "Science Fiction",
+        "price": 20.00
+      },
+      {
+        "name": "The Quantum Thief",
+        "description": "Hannu Rajaniemi's novel blends quantum mechanics and futuristic heist elements in a high-tech world where a master thief tries to recover his memories.",
+        "type": "Science Fiction",
+        "price": 22.00
+      }
+    ]
+  }
+  

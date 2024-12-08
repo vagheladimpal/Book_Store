@@ -1,0 +1,125 @@
+{
+    "horror": [
+      {
+        "name": "Dracula",
+        "description": "Bram Stoker's gothic masterpiece tells the chilling story of Count Dracula's attempt to move from Transylvania to England in order to spread the undead curse.",
+        "type": "Horror",
+        "price": 16.99
+      },
+      {
+        "name": "Frankenstein",
+        "description": "Mary Shelley's iconic tale of Victor Frankenstein, a scientist who creates a living being from body parts, only to be horrified by the monster he brings to life.",
+        "type": "Horror",
+        "price": 14.50
+      },
+      {
+        "name": "The Shining",
+        "description": "Stephen King's classic horror novel set in the isolated Overlook Hotel, where a family faces supernatural forces that drive the father, Jack Torrance, to madness.",
+        "type": "Horror",
+        "price": 19.75
+      },
+      {
+        "name": "It",
+        "description": "In this Stephen King novel, a group of childhood friends returns to their hometown to confront an ancient evil, which takes the shape of a terrifying clown named Pennywise.",
+        "type": "Horror",
+        "price": 21.00
+      },
+      {
+        "name": "The Haunting of Hill House",
+        "description": "Shirley Jackson’s classic horror novel that tells the story of a group of people who visit a haunted mansion, where disturbing events unravel the fragile minds of its inhabitants.",
+        "type": "Horror",
+        "price": 17.99
+      },
+      {
+        "name": "The Exorcist",
+        "description": "William Peter Blatty's terrifying tale of a young girl who becomes possessed by a demon, and the battle between good and evil that ensues to save her.",
+        "type": "Horror",
+        "price": 18.25
+      },
+      {
+        "name": "Pet Sematary",
+        "description": "Stephen King's chilling novel about a cemetery where animals buried there come back to life, leading to tragic and horrifying consequences for those who live near it.",
+        "type": "Horror",
+        "price": 19.99
+      },
+      {
+        "name": "The Silence of the Lambs",
+        "description": "Thomas Harris' psychological horror-thriller that introduces the infamous Dr. Hannibal Lecter, a brilliant but murderous psychiatrist, and FBI agent Clarice Starling.",
+        "type": "Horror",
+        "price": 20.00
+      },
+      {
+        "name": "American Psycho",
+        "description": "Bret Easton Ellis’ controversial novel about Patrick Bateman, a successful Wall Street executive with a dark, violent alter ego who commits horrific acts without remorse.",
+        "type": "Horror",
+        "price": 21.50
+      },
+      {
+        "name": "World War Z",
+        "description": "Max Brooks' oral history of the global zombie apocalypse, told through a series of interviews with survivors, exploring the societal collapse and its aftermath.",
+        "type": "Horror",
+        "price": 18.50
+      },
+      {
+        "name": "The Turn of the Screw",
+        "description": "Henry James’ psychological horror novel about a governess who is tasked with caring for two children at a remote estate, where she begins to see ghostly apparitions.",
+        "type": "Horror",
+        "price": 14.75
+      },
+      {
+        "name": "The Babadook",
+        "description": "Based on the film, Jennifer Kent’s story about a mother and son haunted by a mysterious creature from a children’s book, which may be more than just a figment of their imagination.",
+        "type": "Horror",
+        "price": 18.99
+      },
+      {
+        "name": "The Road",
+        "description": "Cormac McCarthy’s post-apocalyptic novel, where a father and son journey through a desolate and dangerous landscape, struggling to survive amidst the horrors of a dying world.",
+        "type": "Horror",
+        "price": 17.25
+      },
+      {
+        "name": "Misery",
+        "description": "Stephen King's terrifying story of an author who is held captive by a deranged fan after a car accident, with brutal consequences as he struggles to escape.",
+        "type": "Horror",
+        "price": 18.75
+      },
+      {
+        "name": "The Girl Next Door",
+        "description": "Jack Ketchum’s deeply disturbing novel based on true events, following the horrifying abuse of two sisters by their foster family in suburban America.",
+        "type": "Horror",
+        "price": 20.50
+      },
+      {
+        "name": "House of Leaves",
+        "description": "Mark Z. Danielewski’s complex horror novel about a family who moves into a house with strange and terrifying characteristics, interwoven with layers of narrative and footnotes.",
+        "type": "Horror",
+        "price": 22.00
+      },
+      {
+        "name": "The Woman in Black",
+        "description": "Susan Hill's gothic horror novel about a young lawyer who encounters the ghost of a mysterious woman while dealing with the affairs of a deceased client in a remote village.",
+        "type": "Horror",
+        "price": 16.75
+      },
+      {
+        "name": "Bird Box",
+        "description": "Josh Malerman’s gripping post-apocalyptic horror novel where an unseen force drives people to madness and suicide, leaving survivors to navigate the world blindfolded to avoid the creatures.",
+        "type": "Horror",
+        "price": 17.99
+      },
+      {
+        "name": "The Dark Tower: The Gunslinger",
+        "description": "Stephen King's epic horror fantasy about Roland, the last Gunslinger, who pursues the Man in Black across a vast desert in pursuit of the Dark Tower.",
+        "type": "Horror",
+        "price": 19.50
+      },
+      {
+        "name": "The Ritual",
+        "description": "Adam Nevill’s terrifying story about a group of friends who take a shortcut through a Swedish forest, only to encounter an ancient evil lurking within.",
+        "type": "Horror",
+        "price": 18.00
+      }
+    ]
+  }
+  

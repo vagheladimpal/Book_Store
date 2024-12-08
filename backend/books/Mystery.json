@@ -1,0 +1,119 @@
+{
+    "mystery": [
+      {
+        "name": "The Hidden Clue",
+        "description": "A detective races against time to uncover a hidden clue that could solve a decades-old mystery.",
+        "type": "Mystery",
+        "price": 18.99
+      },
+      {
+        "name": "The Silent Witness",
+        "description": "A woman holds the key to solving a mysterious murder, but someone is desperate to keep the truth hidden.",
+        "type": "Mystery",
+        "price": 16.75
+      },
+      {
+        "name": "Whispers in the Dark",
+        "description": "A private investigator uncovers long-buried secrets after being hired to solve the mysterious disappearance of a prominent figure.",
+        "type": "Mystery",
+        "price": 17.50
+      },
+      {
+        "name": "The Vanishing Point",
+        "description": "A series of strange disappearances in a small town leads to a complex puzzle that a determined detective must solve.",
+        "type": "Mystery",
+        "price": 19.00
+      },
+      {
+        "name": "The Secret Beneath",
+        "description": "A young journalist unearths a hidden truth that could change the lives of many, but the more she digs, the more dangerous it becomes.",
+        "type": "Mystery",
+        "price": 18.50
+      },
+      {
+        "name": "Unsolved",
+        "description": "Years after a high-profile case went cold, a new lead emerges, threatening to expose a deadly truth.",
+        "type": "Mystery",
+        "price": 20.00
+      },
+      {
+        "name": "The Mysterious Stranger",
+        "description": "A strange man arrives in town, and his connection to an old unsolved crime becomes the subject of a gripping investigation.",
+        "type": "Mystery",
+        "price": 16.00
+      },
+      {
+        "name": "The Final Clue",
+        "description": "As the investigation unfolds, the final clue might be the key to solving a web of lies that stretches back generations.",
+        "type": "Mystery",
+        "price": 21.75
+      },
+      {
+        "name": "Through the Fog",
+        "description": "A detective follows a trail of cryptic messages that could solve a murder mystery, but the fog hides more than just answers.",
+        "type": "Mystery",
+        "price": 17.25
+      },
+      {
+        "name": "The Puzzle Box",
+        "description": "When a wealthy man is found dead, a cryptic puzzle leads investigators on a wild chase to uncover the truth behind his demise.",
+        "type": "Mystery",
+        "price": 18.75
+      },
+      {
+        "name": "The Case of the Missing Heiress",
+        "description": "A missing heiress, a web of secrets, and a detective who will stop at nothing to solve the case before it's too late.",
+        "type": "Mystery",
+        "price": 19.99
+      },
+      {
+        "name": "The Ghost in the Library",
+        "description": "A librarian discovers an old journal that holds the key to a mystery that has haunted her family for generations.",
+        "type": "Mystery",
+        "price": 16.50
+      },
+      {
+        "name": "A Stranger's Secret",
+        "description": "A woman stumbles upon a stranger's lost journal and soon finds herself entangled in a dangerous mystery involving betrayal and deceit.",
+        "type": "Mystery",
+        "price": 22.00
+      },
+      {
+        "name": "The Midnight Caller",
+        "description": "A series of mysterious phone calls lead a detective to uncover a conspiracy that will change everything.",
+        "type": "Mystery",
+        "price": 17.99
+      },
+      {
+        "name": "The Unseen Footprints",
+        "description": "A detective is tasked with solving a string of murders, but the only evidence left behind are invisible footprints in the snow.",
+        "type": "Mystery",
+        "price": 18.20
+      },
+      {
+        "name": "The Secret of the Manor",
+        "description": "A sprawling manor holds a dark secret, and a young woman must unravel its mysteries before it consumes her.",
+        "type": "Mystery",
+        "price": 19.50
+      },
+      {
+        "name": "The Locked Room",
+        "description": "A detective is faced with a locked room mystery that has baffled everyone who tried to solve it, but he’s determined to uncover the truth.",
+        "type": "Mystery",
+        "price": 20.25
+      },
+      {
+        "name": "Chasing Shadows",
+        "description": "A police officer uncovers a trail of mysterious murders that seem to be connected to an unsolved case from his past.",
+        "type": "Mystery",
+        "price": 18.00
+      },
+      {
+        "name": "The Silent Observer",
+        "description": "A mysterious observer watches events unfold, but when the truth comes to light, it’s far more sinister than anyone could imagine.",
+        "type": "Mystery",
+        "price": 17.00
+      }
+    ]
+  }
+  

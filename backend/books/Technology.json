@@ -1,0 +1,125 @@
+{
+    "technology": [
+      {
+        "name": "The Innovators",
+        "description": "Walter Isaacson's in-depth look at the people who created the computer and the internet, from Ada Lovelace to the digital revolutionaries of today.",
+        "type": "Technology",
+        "price": 22.50
+      },
+      {
+        "name": "Steve Jobs",
+        "description": "Walter Isaacson's biography of Apple co-founder Steve Jobs, offering insight into his life, work, and impact on the world of technology and innovation.",
+        "type": "Technology",
+        "price": 18.99
+      },
+      {
+        "name": "The Code Book",
+        "description": "Simon Singh's exploration of the history of cryptography, from ancient ciphers to modern-day encryption and its impact on security in the digital age.",
+        "type": "Technology",
+        "price": 17.75
+      },
+      {
+        "name": "The Second Machine Age",
+        "description": "Erik Brynjolfsson and Andrew McAfee’s look at how digital technologies like AI, robotics, and automation are changing economies and society.",
+        "type": "Technology",
+        "price": 19.50
+      },
+      {
+        "name": "How We Got to Now",
+        "description": "Steven Johnson's exploration of six innovations that shaped the modern world, from glass to refrigeration, and their unforeseen consequences.",
+        "type": "Technology",
+        "price": 18.00
+      },
+      {
+        "name": "The Lean Startup",
+        "description": "Eric Ries' guide to building startups using lean principles, focusing on how companies can innovate quickly, test ideas, and efficiently grow their business.",
+        "type": "Technology",
+        "price": 16.99
+      },
+      {
+        "name": "Zero to One",
+        "description": "Peter Thiel's book on how to create a successful startup, encouraging entrepreneurs to think big and create something entirely new rather than copying existing models.",
+        "type": "Technology",
+        "price": 18.99
+      },
+      {
+        "name": "The Everything Store",
+        "description": "Brad Stone's biography of Amazon founder Jeff Bezos, detailing the rise of the online retailer and its profound effect on e-commerce, technology, and society.",
+        "type": "Technology",
+        "price": 21.50
+      },
+      {
+        "name": "The Shallows",
+        "description": "Nicholas Carr's exploration of how the internet and digital technologies are affecting our brains, and how our relationship with technology is changing the way we think.",
+        "type": "Technology",
+        "price": 17.00
+      },
+      {
+        "name": "AI Superpowers",
+        "description": "Kai-Fu Lee’s exploration of the rise of artificial intelligence in China and the U.S., and its implications for the global economy and future job market.",
+        "type": "Technology",
+        "price": 19.75
+      },
+      {
+        "name": "The Singularity Is Near",
+        "description": "Ray Kurzweil’s look at the future of technology, arguing that the merging of humans and machines will lead to an era of unprecedented change and advancement.",
+        "type": "Technology",
+        "price": 20.00
+      },
+      {
+        "name": "Blockchain Basics",
+        "description": "Daniel Drescher’s beginner's guide to understanding blockchain technology, how it works, and its potential impact on industries like finance, healthcare, and more.",
+        "type": "Technology",
+        "price": 15.50
+      },
+      {
+        "name": "Wired for War",
+        "description": "P.W. Singer’s exploration of robotics, AI, and drones in modern warfare, and how technology is reshaping the future of combat and the military.",
+        "type": "Technology",
+        "price": 19.00
+      },
+      {
+        "name": "The Phoenix Project",
+        "description": "Gene Kim, Kevin Behr, and George Spafford’s novel that uses a fictional narrative to explain DevOps principles and the importance of collaboration in IT systems.",
+        "type": "Technology",
+        "price": 17.25
+      },
+      {
+        "name": "Artificial Intelligence: A Guide for Thinking Humans",
+        "description": "Melanie Mitchell’s accessible overview of artificial intelligence, covering its current capabilities, challenges, and what it means for the future of humanity.",
+        "type": "Technology",
+        "price": 21.25
+      },
+      {
+        "name": "Hacking Growth",
+        "description": "Sean Ellis and Morgan Brown’s guide to the strategies and tactics used by some of the world’s fastest-growing companies to use data and experimentation to drive growth.",
+        "type": "Technology",
+        "price": 18.50
+      },
+      {
+        "name": "Tech Titans of China",
+        "description": "Rebecca Fannin's exploration of the Chinese tech industry, including companies like Alibaba, Tencent, and Baidu, and how they are shaping the future of technology globally.",
+        "type": "Technology",
+        "price": 19.99
+      },
+      {
+        "name": "Designing Data-Intensive Applications",
+        "description": "Martin Kleppmann’s technical guide to designing and building modern data systems, focusing on scalability, reliability, and maintainability in the face of large-scale data.",
+        "type": "Technology",
+        "price": 39.00
+      },
+      {
+        "name": "Cloudonomics",
+        "description": "Joe Weinman’s exploration of the economic benefits and challenges of cloud computing, and how businesses can leverage cloud-based solutions to optimize operations.",
+        "type": "Technology",
+        "price": 22.99
+      },
+      {
+        "name": "Rework",
+        "description": "Jason Fried and David Heinemeier Hansson’s revolutionary book on how to build a successful business in the modern world, with a focus on simplicity and flexibility.",
+        "type": "Technology",
+        "price": 16.50
+      }
+    ]
+  }
+  

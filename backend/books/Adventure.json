@@ -1,0 +1,125 @@
+{
+    "Adventure": [
+      {
+        "name": "The Call of the Wild",
+        "description": "Jack London's classic adventure novel following Buck, a dog who is torn from his comfortable life and thrown into the harsh wilderness of the Yukon.",
+        "type": "Adventure",
+        "price": 16.99
+      },
+      {
+        "name": "Treasure Island",
+        "description": "Robert Louis Stevenson's timeless tale of pirates, treasure, and adventure on the high seas as young Jim Hawkins seeks to discover the treasure of the infamous Captain Flint.",
+        "type": "Adventure",
+        "price": 12.99
+      },
+      {
+        "name": "Moby-Dick",
+        "description": "Herman Melville's epic tale of Captain Ahab's obsessive quest to hunt down the great white whale, Moby-Dick, which explores themes of fate, vengeance, and the human spirit.",
+        "type": "Adventure",
+        "price": 19.50
+      },
+      {
+        "name": "The Adventures of Huckleberry Finn",
+        "description": "Mark Twain's coming-of-age story about Huck Finn as he floats down the Mississippi River with Jim, an escaped slave, encountering adventure, danger, and moral dilemmas.",
+        "type": "Adventure",
+        "price": 14.50
+      },
+      {
+        "name": "Into the Wild",
+        "description": "Jon Krakauer’s exploration of Chris McCandless, a young man who abandons his conventional life and ventures into the Alaskan wilderness in search of freedom and self-discovery.",
+        "type": "Adventure",
+        "price": 18.75
+      },
+      {
+        "name": "The Secret Garden",
+        "description": "Frances Hodgson Burnett's beloved story of Mary Lennox, a young girl who discovers a hidden, magical garden and transforms her life and the lives of those around her.",
+        "type": "Adventure",
+        "price": 13.99
+      },
+      {
+        "name": "The Swiss Family Robinson",
+        "description": "Johann David Wyss’ story of a Swiss family shipwrecked on a deserted island, and their efforts to survive and thrive in an unfamiliar wilderness.",
+        "type": "Adventure",
+        "price": 16.00
+      },
+      {
+        "name": "The Lost World",
+        "description": "Arthur Conan Doyle’s adventure novel set in a South American plateau where prehistoric creatures still roam, as a group of explorers venture into the unknown.",
+        "type": "Adventure",
+        "price": 14.25
+      },
+      {
+        "name": "Around the World in Eighty Days",
+        "description": "Jules Verne's tale of Phileas Fogg, who bets that he can circumnavigate the globe in just 80 days, embarking on an adventure filled with danger and excitement.",
+        "type": "Adventure",
+        "price": 15.00
+      },
+      {
+        "name": "The Jungle Book",
+        "description": "Rudyard Kipling's iconic collection of stories about Mowgli, a young boy raised by wolves in the jungles of India, and his adventures with various animal friends and foes.",
+        "type": "Adventure",
+        "price": 16.99
+      },
+      {
+        "name": "Life of Pi",
+        "description": "Yann Martel’s adventure of Pi Patel, a young boy who survives a shipwreck and is stranded on a lifeboat in the Pacific Ocean with a Bengal tiger for company.",
+        "type": "Adventure",
+        "price": 18.50
+      },
+      {
+        "name": "Robinson Crusoe",
+        "description": "Daniel Defoe’s classic novel of survival and adventure, following the story of Robinson Crusoe, a man stranded on a deserted island for 28 years.",
+        "type": "Adventure",
+        "price": 17.25
+      },
+      {
+        "name": "The Black Stallion",
+        "description": "Walter Farley’s story about a young boy, Alec Ramsay, who befriends a wild stallion while stranded on a desert island, leading to a life-changing adventure.",
+        "type": "Adventure",
+        "price": 14.99
+      },
+      {
+        "name": "The Odyssey",
+        "description": "Homer's ancient Greek epic, following Odysseus' long and perilous journey home after the Trojan War, filled with fantastical creatures and trials of will.",
+        "type": "Adventure",
+        "price": 20.00
+      },
+      {
+        "name": "The Count of Monte Cristo",
+        "description": "Alexandre Dumas’ thrilling tale of Edmond Dantès, a man wrongfully imprisoned who escapes and seeks revenge against those who betrayed him.",
+        "type": "Adventure",
+        "price": 22.50
+      },
+      {
+        "name": "Journey to the Center of the Earth",
+        "description": "Jules Verne's classic science fiction-adventure novel about a daring expedition to the earth's core, where they encounter strange and mysterious underground creatures.",
+        "type": "Adventure",
+        "price": 15.99
+      },
+      {
+        "name": "The Grapes of Wrath",
+        "description": "John Steinbeck’s Pulitzer Prize-winning novel about the Joad family’s struggle to survive during the Great Depression as they travel west in search of a better life.",
+        "type": "Adventure",
+        "price": 18.00
+      },
+      {
+        "name": "King Solomon's Mines",
+        "description": "H. Rider Haggard’s adventure story about Allan Quatermain, a Victorian explorer who embarks on a perilous expedition in search of a lost diamond mine in Africa.",
+        "type": "Adventure",
+        "price": 16.25
+      },
+      {
+        "name": "The Old Man and the Sea",
+        "description": "Ernest Hemingway’s powerful story of an old fisherman’s battle with a giant marlin, exploring themes of perseverance, struggle, and the human condition.",
+        "type": "Adventure",
+        "price": 14.00
+      },
+      {
+        "name": "The Road",
+        "description": "Cormac McCarthy's gripping post-apocalyptic tale of a father and son struggling to survive in a desolate world, offering a profound look at humanity and hope.",
+        "type": "Adventure",
+        "price": 17.75
+      }
+    ]
+  }
+  

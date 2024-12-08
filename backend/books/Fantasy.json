@@ -1,0 +1,119 @@
+{
+    "fantasy": [
+      {
+        "name": "The Name of the Wind",
+        "description": "The first book in Patrick Rothfuss's 'Kingkiller Chronicle' series, following the legendary tale of Kvothe, a gifted young man who becomes a powerful and notorious figure.",
+        "type": "Fantasy",
+        "price": 18.99
+      },
+      {
+        "name": "Mistborn: The Final Empire",
+        "description": "In a world where ash falls from the sky and mist dominates the night, Vin, an orphan with hidden powers, becomes a part of a rebellion to overthrow an immortal tyrant.",
+        "type": "Fantasy",
+        "price": 20.00
+      },
+      {
+        "name": "A Game of Thrones",
+        "description": "The first book in George R. R. Martin's epic 'A Song of Ice and Fire' series, where political intrigue and deadly battles unfold in the Seven Kingdoms of Westeros.",
+        "type": "Fantasy",
+        "price": 22.50
+      },
+      {
+        "name": "The Hobbit",
+        "description": "J.R.R. Tolkien's classic tale of Bilbo Baggins, a hobbit who embarks on a dangerous adventure with a group of dwarves to reclaim their treasure from the dragon Smaug.",
+        "type": "Fantasy",
+        "price": 15.75
+      },
+      {
+        "name": "The Way of Kings",
+        "description": "The first novel in Brandon Sanderson's 'Stormlight Archive' series, set in a world plagued by storms and war, featuring multiple characters and complex plotlines.",
+        "type": "Fantasy",
+        "price": 25.00
+      },
+      {
+        "name": "The Lies of Locke Lamora",
+        "description": "In a city ruled by criminals, Locke Lamora is a master thief who leads a band of con artists, but when he crosses the wrong people, things take a dangerous turn.",
+        "type": "Fantasy",
+        "price": 18.25
+      },
+      {
+        "name": "The Priory of the Orange Tree",
+        "description": "A sprawling epic set in a world of dragons, magic, and powerful women who fight against a growing evil threatening the world.",
+        "type": "Fantasy",
+        "price": 24.50
+      },
+      {
+        "name": "The Shadow of the Wind",
+        "description": "A young boy named Daniel uncovers a dark mystery surrounding an obscure novel and its enigmatic author in post-World War II Barcelona.",
+        "type": "Fantasy",
+        "price": 18.75
+      },
+      {
+        "name": "City of Stairs",
+        "description": "In a world where gods were once real but are now dead, a detective investigates a murder that seems to have divine implications.",
+        "type": "Fantasy",
+        "price": 17.50
+      },
+      {
+        "name": "The Lightning Thief",
+        "description": "Percy Jackson discovers that he is a demigod and embarks on a dangerous journey to prevent a war between the gods of Mount Olympus.",
+        "type": "Fantasy",
+        "price": 16.99
+      },
+      {
+        "name": "The Black Prism",
+        "description": "In a world where magic comes from color, Gavin Guile, the world's most powerful person, must defend his kingdom while grappling with personal and moral challenges.",
+        "type": "Fantasy",
+        "price": 19.00
+      },
+      {
+        "name": "The Bone Shard Daughter",
+        "description": "In a world ruled by a corrupt emperor, Lin, a young woman seeking to unlock her magic, must fight to reclaim her birthright.",
+        "type": "Fantasy",
+        "price": 21.75
+      },
+      {
+        "name": "The Night Circus",
+        "description": "Two young illusionists engage in a magical duel, set within a mysterious circus that only opens at night, in Erin Morgenstern's enchanting fantasy novel.",
+        "type": "Fantasy",
+        "price": 19.25
+      },
+      {
+        "name": "The Inheritance Trilogy",
+        "description": "In a world of gods, mortals, and magic, the story follows the struggle for power as a young woman seeks revenge for her family's murder.",
+        "type": "Fantasy",
+        "price": 22.00
+      },
+      {
+        "name": "The Song of Achilles",
+        "description": "A modern retelling of the Iliad, focusing on the relationship between Achilles and Patroclus during the Trojan War.",
+        "type": "Fantasy",
+        "price": 17.50
+      },
+      {
+        "name": "The Paper Palace",
+        "description": "A complex tale of love, betrayal, and secrets set on Cape Cod, as a woman reflects on the choices she's made over the course of her life.",
+        "type": "Fantasy",
+        "price": 20.25
+      },
+      {
+        "name": "The Name of the Wind",
+        "description": "The first book in 'The Kingkiller Chronicle,' following Kvothe, a gifted boy who grows into a legendary figure and learns powerful magic.",
+        "type": "Fantasy",
+        "price": 18.99
+      },
+      {
+        "name": "The Bone Season",
+        "description": "In a future dystopian world where clairvoyants are hunted, Paige Mahoney navigates a dangerous underworld and uncovers deadly secrets.",
+        "type": "Fantasy",
+        "price": 19.50
+      },
+      {
+        "name": "The Wicked King",
+        "description": "The second book in Holly Black's 'The Folk of the Air' series, a dark fantasy following Jude as she navigates the treacherous world of Faerie.",
+        "type": "Fantasy",
+        "price": 18.25
+      }
+    ]
+  }
+  

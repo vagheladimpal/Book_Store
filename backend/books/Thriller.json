@@ -1,0 +1,125 @@
+{
+    "thriller": [
+      {
+        "name": "The Silent Witness",
+        "description": "A woman discovers a murder and becomes the prime suspect in a case that could destroy her life.",
+        "type": "Thriller",
+        "price": 18.99
+      },
+      {
+        "name": "Shadows in the Fog",
+        "description": "A detective investigates a series of strange disappearances in a town shrouded in mystery and mist.",
+        "type": "Thriller",
+        "price": 16.50
+      },
+      {
+        "name": "The Last Escape",
+        "description": "A fugitive on the run discovers a conspiracy that could change the course of history.",
+        "type": "Thriller",
+        "price": 21.00
+      },
+      {
+        "name": "The Dark Hour",
+        "description": "An investigative journalist uncovers a dark secret in a seemingly peaceful town, risking everything to expose the truth.",
+        "type": "Thriller",
+        "price": 17.75
+      },
+      {
+        "name": "No Escape",
+        "description": "A woman is forced to confront her past when she is drawn into a game of cat and mouse with a serial killer.",
+        "type": "Thriller",
+        "price": 19.50
+      },
+      {
+        "name": "Deadly Lies",
+        "description": "A man becomes entangled in a web of lies as he uncovers the truth about a murder involving someone close to him.",
+        "type": "Thriller",
+        "price": 15.25
+      },
+      {
+        "name": "The Hidden Truth",
+        "description": "A private investigator discovers a trail of hidden clues that could lead to the uncovering of a decades-old mystery.",
+        "type": "Thriller",
+        "price": 18.25
+      },
+      {
+        "name": "Crimson Night",
+        "description": "A police officer uncovers the truth about a string of murders that seem unrelated, but are all tied to a sinister organization.",
+        "type": "Thriller",
+        "price": 20.00
+      },
+      {
+        "name": "Chasing Shadows",
+        "description": "A man is drawn into a dangerous game where his every move is tracked, and his life is on the line.",
+        "type": "Thriller",
+        "price": 17.00
+      },
+      {
+        "name": "The Witness",
+        "description": "A woman who witnessed a murder must now protect herself from a vengeful killer who is hunting her down.",
+        "type": "Thriller",
+        "price": 16.99
+      },
+      {
+        "name": "The Death Trap",
+        "description": "A group of strangers is trapped in a mansion, each with their own secrets, as a deadly game begins to unfold.",
+        "type": "Thriller",
+        "price": 19.99
+      },
+      {
+        "name": "Silent Pursuit",
+        "description": "A detective must race against time to track down a killer who always seems one step ahead, leaving no trace behind.",
+        "type": "Thriller",
+        "price": 18.00
+      },
+      {
+        "name": "The Final Countdown",
+        "description": "A former military officer must stop a terrorist plot before it's too late, but the clock is ticking.",
+        "type": "Thriller",
+        "price": 21.50
+      },
+      {
+        "name": "Beneath the Surface",
+        "description": "A dive into the deep sea reveals a deadly secret, as a group of explorers find themselves trapped underwater.",
+        "type": "Thriller",
+        "price": 22.00
+      },
+      {
+        "name": "The Silent Killer",
+        "description": "A disease spreads rapidly, and a group of people must find the cause before it wipes out humanity.",
+        "type": "Thriller",
+        "price": 18.99
+      },
+      {
+        "name": "Vanishing Point",
+        "description": "A woman wakes up to find her entire family gone, and as she searches for answers, she uncovers a conspiracy that goes beyond her understanding.",
+        "type": "Thriller",
+        "price": 20.75
+      },
+      {
+        "name": "Echoes of Fear",
+        "description": "A series of mysterious deaths in an old town leads a detective into a chilling investigation full of secrets and deception.",
+        "type": "Thriller",
+        "price": 19.00
+      },
+      {
+        "name": "Behind Closed Doors",
+        "description": "A lawyer becomes embroiled in a case that could cost him his life, as he discovers a deep conspiracy within his own firm.",
+        "type": "Thriller",
+        "price": 17.99
+      },
+      {
+        "name": "The Shadow Man",
+        "description": "A woman is stalked by a mysterious figure, and as she tries to unravel his identity, she uncovers shocking truths about her past.",
+        "type": "Thriller",
+        "price": 16.75
+      },
+      {
+        "name": "The Vanishing Act",
+        "description": "A magician disappears during his final performance, and a detective must figure out if it’s part of the act or a deadly conspiracy.",
+        "type": "Thriller",
+        "price": 18.50
+      }
+    ]
+  }
+  

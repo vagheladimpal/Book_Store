@@ -1,0 +1,125 @@
+{
+    "inspirational": [
+      {
+        "name": "The Power of Now",
+        "description": "Eckhart Tolle's groundbreaking work on spirituality, encouraging readers to live in the present moment and embrace mindfulness to achieve inner peace.",
+        "type": "Inspirational",
+        "price": 15.99
+      },
+      {
+        "name": "The Alchemist",
+        "description": "Paulo Coelho's allegorical novel about Santiago, a young shepherd who embarks on a journey to find treasure, learning valuable life lessons along the way.",
+        "type": "Inspirational",
+        "price": 18.50
+      },
+      {
+        "name": "You Are a Badass",
+        "description": "Jen Sincero's motivational guide to self-improvement, filled with practical advice and empowering insights to help readers achieve their goals and live a bold life.",
+        "type": "Inspirational",
+        "price": 16.75
+      },
+      {
+        "name": "The Four Agreements",
+        "description": "Don Miguel Ruiz's spiritual guide based on ancient Toltec wisdom, offering four simple principles to practice for achieving personal freedom and happiness.",
+        "type": "Inspirational",
+        "price": 14.99
+      },
+      {
+        "name": "Atomic Habits",
+        "description": "James Clear’s highly practical book on the power of small habits and how incremental changes can lead to significant long-term personal and professional transformations.",
+        "type": "Inspirational",
+        "price": 20.00
+      },
+      {
+        "name": "The Secret",
+        "description": "Rhonda Byrne's book exploring the law of attraction, showing how positive thinking can bring about success, love, and happiness in one's life.",
+        "type": "Inspirational",
+        "price": 17.99
+      },
+      {
+        "name": "Daring Greatly",
+        "description": "Brené Brown's work on the power of vulnerability, encouraging readers to embrace imperfections and take risks to build courage and connection.",
+        "type": "Inspirational",
+        "price": 18.99
+      },
+      {
+        "name": "Awaken the Giant Within",
+        "description": "Tony Robbins' book offering tools and strategies to transform your life by taking control of your emotions, finances, relationships, and health.",
+        "type": "Inspirational",
+        "price": 19.50
+      },
+      {
+        "name": "The Magic of Thinking Big",
+        "description": "David J. Schwartz's motivational book that teaches the importance of thinking big and setting high goals in order to achieve success and fulfillment in life.",
+        "type": "Inspirational",
+        "price": 16.00
+      },
+      {
+        "name": "Start with Why",
+        "description": "Simon Sinek's inspirational work on leadership, showing that successful individuals and organizations are driven by a clear sense of purpose and ",
+        "type": "Inspirational",
+        "price": 18.75
+      },
+      {
+        "name": "Grit",
+        "description": "Angela Duckworth's groundbreaking research on the power of passion and perseverance, showing that success is often more about grit than talent.",
+        "type": "Inspirational",
+        "price": 17.25
+      },
+      {
+        "name": "The Gifts of Imperfection",
+        "description": "Brené Brown's exploration of embracing our imperfections, allowing ourselves to be vulnerable, and living a wholehearted life.",
+        "type": "Inspirational",
+        "price": 18.00
+      },
+      {
+        "name": "The Art of Happiness",
+        "description": "Dalai Lama’s teachings on how to achieve happiness through mindfulness, compassion, and overcoming negative emotions, blending Buddhist philosophy with modern psychology.",
+        "type": "Inspirational",
+        "price": 19.50
+      },
+      {
+        "name": "Man's Search for Meaning",
+        "description": "Viktor Frankl’s memoir about his experiences in Nazi concentration camps and his exploration of the importance of finding purpose and meaning in life.",
+        "type": "Inspirational",
+        "price": 15.00
+      },
+      {
+        "name": "Big Magic",
+        "description": "Elizabeth Gilbert’s inspiring book on creativity, offering advice on how to embrace the unknown and lead a more creative and fulfilling life.",
+        "type": "Inspirational",
+        "price": 18.25
+      },
+      {
+        "name": "The 5 AM Club",
+        "description": "Robin Sharma’s book about the transformative power of waking up early and using the first hours of the day for self-improvement, exercise, and productivity.",
+        "type": "Inspirational",
+        "price": 20.00
+      },
+      {
+        "name": "Mindset",
+        "description": "Carol Dweck’s groundbreaking book on the concept of “fixed” vs “growth” mindsets, showing how adopting a growth mindset can lead to success and resilience.",
+        "type": "Inspirational",
+        "price": 16.50
+      },
+      {
+        "name": "The Power of Positive Thinking",
+        "description": "Norman Vincent Peale’s classic book that teaches how cultivating a positive mental attitude can lead to success, health, and happiness.",
+        "type": "Inspirational",
+        "price": 17.99
+      },
+      {
+        "name": "The Book of Joy",
+        "description": "Dalai Lama and Archbishop Desmond Tutu’s heartfelt conversations on the nature of joy and how to cultivate it despite the challenges life throws at us.",
+        "type": "Inspirational",
+        "price": 19.25
+      },
+      {
+        "name": "Becoming",
+        "description": "Michelle Obama's inspiring memoir about her journey from her childhood in Chicago to becoming the First Lady of the United States, highlighting themes of resilience, purpose, and hope.",
+        "type": "Inspirational",
+        "price": 21.00
+      }
+    ]
+  }
+  

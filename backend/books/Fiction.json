@@ -1,0 +1,125 @@
+{
+    "fiction": [
+      {
+        "name": "The Great Adventure",
+        "description": "A thrilling tale of discovery, courage, and friendship as a group of explorers embarks on a journey across uncharted lands.",
+        "type": "Fiction",
+        "price": 19.99
+      },
+      {
+        "name": "Echoes of the Lost World",
+        "description": "An adventure through time where a group of travelers discovers ancient civilizations and secrets long forgotten.",
+        "type": "Fiction",
+        "price": 16.99
+      },
+      {
+        "name": "Whispers in the Wind",
+        "description": "A young woman embarks on a journey to uncover the mysteries of her family's past, only to find herself in a world of danger.",
+        "type": "Fiction",
+        "price": 14.50
+      },
+      {
+        "name": "The Secret Passage",
+        "description": "A boy discovers a hidden passage beneath his city, leading to a world filled with magical creatures and ancient mysteries.",
+        "type": "Fiction",
+        "price": 18.75
+      },
+      {
+        "name": "The Enchanted Forest",
+        "description": "A group of children venture into a mysterious forest where the boundaries between reality and magic blur.",
+        "type": "Fiction",
+        "price": 22.00
+      },
+      {
+        "name": "The Lost Kingdom",
+        "description": "An ancient kingdom lost to time holds the key to an epic adventure that could change the world.",
+        "type": "Fiction",
+        "price": 17.99
+      },
+      {
+        "name": "The Midnight Voyage",
+        "description": "A sea captain and her crew must navigate dangerous waters and uncover secrets hidden beneath the deep.",
+        "type": "Fiction",
+        "price": 21.50
+      },
+      {
+        "name": "Beyond the Horizon",
+        "description": "A man embarks on a journey to find the mythical land beyond the horizon, discovering more about himself along the way.",
+        "type": "Fiction",
+        "price": 19.75
+      },
+      {
+        "name": "The Eternal Night",
+        "description": "In a world where the sun never rises, a young woman seeks to break the curse of eternal night and bring hope to her people.",
+        "type": "Fiction",
+        "price": 20.99
+      },
+      {
+        "name": "Shadow of the Phoenix",
+        "description": "A young hero discovers he is the descendant of a legendary phoenix, and must unlock his powers to save the world from destruction.",
+        "type": "Fiction",
+        "price": 18.50
+      },
+      {
+        "name": "The Forgotten Realm",
+        "description": "In a forgotten world, a warrior must confront ancient forces to protect his homeland from an evil sorcerer.",
+        "type": "Fiction",
+        "price": 15.00
+      },
+      {
+        "name": "The Dreamer's Journey",
+        "description": "A young dreamer is thrust into a world of adventure after receiving a prophetic vision that leads her into uncharted lands.",
+        "type": "Fiction",
+        "price": 16.25
+      },
+      {
+        "name": "The Silent Abyss",
+        "description": "A scientist discovers a hidden abyss that holds the answers to mankind's greatest questions, but at a great cost.",
+        "type": "Fiction",
+        "price": 19.99
+      },
+      {
+        "name": "The King's Decree",
+        "description": "A kingdom on the brink of collapse must face political intrigue, ancient prophecies, and the rise of a new ruler.",
+        "type": "Fiction",
+        "price": 17.50
+      },
+      {
+        "name": "City of Shadows",
+        "description": "A detective must uncover the truth behind a series of disappearances in a city full of dark secrets and danger.",
+        "type": "Fiction",
+        "price": 18.99
+      },
+      {
+        "name": "The Last Guardian",
+        "description": "A mythical guardian is tasked with protecting an ancient artifact that could change the course of history.",
+        "type": "Fiction",
+        "price": 20.50
+      },
+      {
+        "name": "The Cursed Isle",
+        "description": "An island shrouded in mystery holds the secrets of an ancient civilization that has been lost to time.",
+        "type": "Fiction",
+        "price": 14.25
+      },
+      {
+        "name": "Journey Through Fire",
+        "description": "A brave soul must travel through dangerous lands filled with monsters and magic to reach the fabled city of fire.",
+        "type": "Fiction",
+        "price": 17.99
+      },
+      {
+        "name": "The Last Horizon",
+        "description": "A group of survivors must navigate a post-apocalyptic world and uncover the secrets that could save humanity.",
+        "type": "Fiction",
+        "price": 21.25
+      },
+      {
+        "name": "Frostbound",
+        "description": "In a frozen world, a young hero must find the lost city of fire to save his people from eternal winter.",
+        "type": "Fiction",
+        "price": 18.00
+      }
+    ]
+  }
+  

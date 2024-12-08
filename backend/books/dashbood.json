@@ -1,0 +1,131 @@
+{
+    "books": [
+      {
+        "name": "The Great Adventure",
+        "description": "A thrilling tale of discovery, courage, and friendship as a group of explorers embarks on a journey across uncharted lands.",
+        "type": "Fiction",
+        "price": 19.99
+      },
+      {
+        "name": "Mystery of the Lost Temple",
+        "description": "A gripping mystery about a young archaeologist who unearths secrets in an ancient temple.",
+        "type": "Thriller",
+        "price": 15.99
+      },
+      {
+        "name": "The Silent Observer",
+        "description": "A crime detective must solve the case of a series of disappearances in a quiet town.",
+        "type": "Mystery",
+        "price": 12.49
+      },
+      {
+        "name": "Beneath the Waves",
+        "description": "A heartwarming story of a marine biologist and the creatures she discovers under the sea.",
+        "type": "Non-fiction",
+        "price": 22.99
+      },
+      {
+        "name": "Skybound",
+        "description": "A young girl finds herself caught in a world of airborne cities and dangerous skies.",
+        "type": "Fantasy",
+        "price": 18.99
+      },
+      {
+        "name": "The Rebel's Code",
+        "description": "Set in a dystopian future, this book follows a rebel as she fights for justice against a corrupt government.",
+        "type": "Science Fiction",
+        "price": 16.99
+      },
+      {
+        "name": "Echoes of Time",
+        "description": "A time traveler struggles to fix the broken timelines that threaten the fabric of reality.",
+        "type": "Fantasy",
+        "price": 21.50
+      },
+      {
+        "name": "The Last Key",
+        "description": "A young boy stumbles upon an ancient key that could unlock the secret to saving the world.",
+        "type": "Adventure",
+        "price": 17.99
+      },
+      {
+        "name": "The Hidden Path",
+        "description": "A story of self-discovery and healing as a woman navigates the rugged wilderness of her own emotions.",
+        "type": "Self-Help",
+        "price": 13.50
+      },
+      {
+        "name": "Whispers in the Dark",
+        "description": "A chilling ghost story about a haunted mansion and the secrets buried within.",
+        "type": "Horror",
+        "price": 14.99
+      },
+      {
+        "name": "Wings of Freedom",
+        "description": "The story of a young woman breaking free from societal expectations to pursue her dreams of flying.",
+        "type": "Inspirational",
+        "price": 19.49
+      },
+      {
+        "name": "Digital Dreams",
+        "description": "A look into the future of technology and its impact on human relationships and society.",
+        "type": "Technology",
+        "price": 25.00
+      },
+      {
+        "name": "The Girl in the Mirror",
+        "description": "A psychological thriller about a woman who begins to question her own sanity when she sees a stranger in her reflection.",
+        "type": "Psychological Thriller",
+        "price": 16.50
+      },
+      {
+        "name": "The Dragon's Curse",
+        "description": "A powerful dragon seeks redemption for the curses it has inflicted upon the land and its people.",
+        "type": "Fantasy",
+        "price": 20.99
+      },
+      {
+        "name": "The Forbidden Spell",
+        "description": "A wizard's apprentice discovers an ancient spell that could destroy the world.",
+        "type": "Fantasy",
+        "price": 17.00
+      },
+      {
+        "name": "Heart of the Wild",
+        "description": "A journey into the wilderness brings a group of friends closer, while testing their limits.",
+        "type": "Adventure",
+        "price": 15.00
+      },
+      {
+        "name": "Echoes of the Past",
+        "description": "A historical novel set in the backdrop of a war, where love and betrayal go hand in hand.",
+        "type": "Historical Fiction",
+        "price": 18.99
+      },
+      {
+        "name": "The Secret Agent",
+        "description": "A thrilling spy novel where secrets, danger, and betrayal are all part of the game.",
+        "type": "Spy Fiction",
+        "price": 14.00
+      },
+      {
+        "name": "Through the Fire",
+        "description": "A young firefighter learns the true meaning of courage while battling the fiercest blaze of his life.",
+        "type": "Drama",
+        "price": 16.25
+      },
+      {
+        "name": "Whispers of the Forest",
+        "description": "A tale of mystery and magic set deep in an enchanted forest where the creatures are not what they seem.",
+        "type": "Fantasy",
+        "price": 17.75
+      },
+      {
+        "name": "Shadows on the Moon",
+        "description": "A science fiction epic where a team of astronauts discovers a hidden civilization on the moon.",
+        "type": "Science Fiction",
+        "price": 23.00
+      }
+    ]
+  }
+  
