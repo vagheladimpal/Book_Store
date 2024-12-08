@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { instance } from "../AxiosMethod/Axios";
 import { useNavigate } from "react-router-dom";
+import register from "../Assets/register-1.jpg";
 
 const Register = () => {
   const [email, setEmail] = useState("");
@@ -19,20 +20,25 @@ const Register = () => {
       .post("/user", payload)
       .then((res) => {
         console.log(res);
-         navigate("/login")
-         alert("Register success");
+        navigate("/login");
+        alert("Register success");
       })
       .catch((error) => {
         console.log(error);
       });
   };
+
+  const handelchange = () => {
+    navigate("/forget");
+  };
+
   return (
     <>
       <div className="bg-sky-100 flex justify-center items-center h-screen">
         {/* <!-- Left: Image --> */}
         <div className="w-1/2 h-screen hidden lg:block">
           <img
-            src="https://img.freepik.com/fotos-premium/imagen-fondo_910766-187.jpg?w=826"
+            src={register}
             alt="Placeholder Image"
             className="object-cover w-full h-full"
           />
@@ -82,7 +88,7 @@ const Register = () => {
             </div>
             {/* <!-- Forgot Password Link --> */}
             <div className="mb-6 text-blue-500">
-              <a href="#" className="hover:underline">
+              <a href="#" className="hover:underline" onClick={handelchange}>
                 Forgot Password?
               </a>
             </div>

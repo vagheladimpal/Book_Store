@@ -1,32 +1,39 @@
 import { useState } from "react";
 import { instance } from "../AxiosMethod/Axios";
-import e from "cors";
+import forget from "../Assets/forget2.webp";
+import { useNavigate } from "react-router-dom";
 
+const ForgetPassword = () => {
+  const [email, setEmail] = useState("");
+  const [newPassword, setNewPassword] = useState("");
+  const [confirmPassword, setConfirmPassword] = useState("");
+  const navigate = useNavigate();
 
-const ForgetPassword=()=>{
-    const [email, setEmail] = useState("");
-    const [newPassword, setNewPassword] = useState("");
-    const [confirmPassword, setConfirmPassword] = useState("");
+  const handelforgetPassword = (e) => {
+    e.preventDefault();
+    const payload = {
+      email: email,
+      newPassword: newPassword,
+      confirmPassword: confirmPassword,
+    };
+    instance
+      .post("user/forgetPassword", payload)
+      .then((res) => {
+        console.log("your password succesfully set", res);
+        navigate("/login");
+      })
+      .catch((error) => {
+        console.log("error forget", error);
+      });
+  };
 
-    const handelforgetPassword=(e)=>{
-        e.preventDefault()
-        const payload={
-            email:email,
-            newPassword:newPassword,
-            confirmPassword:confirmPassword
-        }
-        instance.post("user/forgetPassword",payload).then((res)=>{
-            console.log("your password succesfully set",res)
-        })
-        .catch((error)=>{console.log("error forget",error)})
-    }
-    return(
-        <>
+  return (
+    <>
       <div className="bg-sky-100 flex justify-center items-center h-screen">
         {/* <!-- Left: Image --> */}
         <div className="w-1/2 h-screen hidden lg:block">
           <img
-            src="https://img.freepik.com/fotos-premium/imagen-fondo_910766-187.jpg?w=826"
+            src={forget}
             alt="Placeholder Image"
             className="object-cover w-full h-full"
           />
@@ -51,7 +58,7 @@ const ForgetPassword=()=>{
             {/* <!-- Password Input --> */}
             <div className="mb-4">
               <label htmlFor="password" className="block text-gray-800">
-               New Password
+                New Password
               </label>
               <input
                 type="password"
@@ -73,7 +80,7 @@ const ForgetPassword=()=>{
                 onChange={(e) => setConfirmPassword(e.target.value)}
               />
             </div>
-        
+
             {/* <!-- Login Button --> */}
             <button
               type="submit"
@@ -85,6 +92,6 @@ const ForgetPassword=()=>{
         </div>
       </div>
     </>
-    )
-}
-export default ForgetPassword
+  );
+};
+export default ForgetPassword;

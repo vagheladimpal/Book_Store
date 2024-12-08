@@ -16,7 +16,7 @@ export const Dashbord = () => {
       .catch((error) => {
         console.log(error);
       });
-  };
+  };  
   return (
     <>
       <h1>you login is successfully Welcome to dimpal Clube</h1>

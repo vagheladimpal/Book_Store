@@ -2,13 +2,13 @@ import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import Toast from "../Component/Toast";
 import { instance } from "../AxiosMethod/Axios";
-
+import login from "../Assets/login1.jpg";
 const Login = () => {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
 
   const navigate = useNavigate();
-  
+
   const handleSubmit = (e) => {
     e.preventDefault();
     const payload = {
@@ -23,7 +23,7 @@ const Login = () => {
       .then((res) => {
         // localStorage.setItem("token", JSON.stringify(res.data.access_token));
         alert("your Login successfully");
-        // navigate("/dashbord")
+        navigate("/dashbord");
         console.log("Login successfully", res);
       })
       .catch((error) => {
@@ -32,13 +32,20 @@ const Login = () => {
       });
   };
 
+  const handlechange = () => {
+    navigate("/forget");
+  };
+
+  const handleregister = () => {
+    navigate("/register");
+  };
   return (
     <>
       <div className="bg-sky-100 flex justify-center items-center h-screen">
         {/* <!-- Left: Image --> */}
         <div className="w-1/2 h-screen hidden lg:block">
           <img
-            src="https://img.freepik.com/fotos-premium/imagen-fondo_910766-187.jpg?w=826"
+            src={login}
             alt="Placeholder Image"
             className="object-cover w-full h-full"
           />
@@ -60,7 +67,7 @@ const Login = () => {
                 onChange={(e) => setEmail(e.target.value)}
               />
             </div>
-            {/* <!-- Password Input --> */}
+
             <div className="mb-4">
               <label htmlFor="password" className="block text-gray-800">
                 Password
@@ -75,7 +82,7 @@ const Login = () => {
             </div>
             {/* <!-- Forgot Password Link --> */}
             <div className="mb-6 text-blue-500">
-              <a href="#" className="hover:underline">
+              <a href="#" className="hover:underline" onClick={handlechange}>
                 Forgot Password?
               </a>
             </div>
@@ -86,6 +93,12 @@ const Login = () => {
             >
               Login
             </button>
+            <p class="mt-4 text-sm">
+              Already Have An Account?{" "}
+              <span class="underline  cursor-pointer" onClick={handleregister}>
+                Register
+              </span>
+            </p>
           </form>
         </div>
       </div>
